@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @usw22
 - 👀 I’m interested in interesting things.
-- 🌱 I’m currently learning CSS
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me personally
+- 🌱 I’m currently learning CSS.
+- 💞️ I’m looking to collaborate on nothing!
+- 📫 How to reach me? Personally.
 
 <!---
 usw22/usw22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
