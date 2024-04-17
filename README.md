@@ -2,7 +2,7 @@
 - 👀 I’m interested in interesting things.
 - 🌱 I’m currently learning CSS.
 - 💞️ I’m looking to collaborate on nothing!
-- 📫 How to reach me? Personally.
+- 📫 How to reach me? Only in person and real life.
 
 <!---
 usw22/usw22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
